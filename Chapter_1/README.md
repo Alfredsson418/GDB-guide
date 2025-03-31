@@ -1,3 +1,9 @@
+# Omfattning
+- Hur du startar och kör GDB
+- Hur du kör en körbar fil i GDB
+- Vilka flaggor man ska ha med vid kompilering
+
+
 # En bra början
 Vart ska man börja??? Alla har olika behov när de programmerar och alla har olika metoder till hur de själva debuggar kod. Jag kan själv enkänna att har använder *print* metoden när jag programmerar, det är en väldigt simpel och generellt snabbt sätt att hitta eventuella fel. **MEN** vad säger du ifall det finns ett bättre sätt? En metod där du kan pausa programmet där du vill och skriva ut alla variabler i minnet direkt i terminalen!
 
