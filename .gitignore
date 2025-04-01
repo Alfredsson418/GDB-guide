@@ -1,3 +1,7 @@
+ex*
+!ex*.c
+!ex*.h
+
 # Prerequisites
 *.d
 
