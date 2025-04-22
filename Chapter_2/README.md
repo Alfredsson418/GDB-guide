@@ -83,6 +83,13 @@ Notera: Om du skulle använda någon typ av optimering vid kompilering så kan f
   (gdb) print print_me()
 ```
 
+# Rad för rad
+När du kör programmet kan du exekvera varje rad för sig kan du använda kommandot **step**. Säg att du vet att du får en error i en specifik funktion i ett program men vet inte vart problemet sker någonstans, då kan du sätta en breakpoint på fuktionen och stegvis använda **step** för att radvis analysera programmet.
+
+```
+(gdb) step
+```
+
 # Exempel
 Nu kommer vi till det praktiska, vi ska faktiskt börja använda GDB!
 
