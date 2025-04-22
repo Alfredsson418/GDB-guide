@@ -8,3 +8,12 @@ Detta git repository kommer fungera som en liten guide med olika exempel så du 
 # Innehållsförteckning
 ## 1. [En bra början](./Chapter_1/README.md)
 ## 2. [Steg för Steg](./Chapter_2/README.md)
+## 3. [Våga fråga om hjälp!](./Chapter_3/README.md)
+
+# Vad du kan förvänta dig!
+- Hur använder man TUI
+- gdb konfiguration
+- Vad finns i help kommandot
+- Förkortningar
+- Egna kommandon & aliases
+- GDB och Reverse Engineering
